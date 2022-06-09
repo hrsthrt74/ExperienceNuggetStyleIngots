@@ -35,6 +35,7 @@ Sequenced by A to Z:
 - [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)
 - Oh The Biomes You'll Go ( [Forge](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go) | [Fabric](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric) )
 - [PneumaticCraft: Repressurized](https://modrinth.com/mod/pneumaticcraft-repressurized)
+- [Project Red](https://www.curseforge.com/minecraft/mc-mods/project-red-core)
 - [Shelve](https://www.curseforge.com/minecraft/mc-mods/sheve) [(Fabricated](https://modrinth.com/mod/shelve-refabricated))
 - [Create: Steam Powered](https://www.curseforge.com/minecraft/mc-mods/steam-powered-create)
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
