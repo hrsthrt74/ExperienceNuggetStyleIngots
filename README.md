@@ -20,10 +20,13 @@ Sequenced by A to Z:
 - [Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia) ([Reforged](https://www.curseforge.com/minecraft/mc-mods/avaritia-reforged))
 - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [Botania](https://modrinth.com/mod/botania)
+- [Buddycards](https://www.curseforge.com/minecraft/mc-mods/buddycards)
 - [Conjuring](https://modrinth.com/mod/conjuring)
 - Create ( [Forge](https://www.curseforge.com/minecraft/mc-mods/create) | [Fabric](https://modrinth.com/mod/create-fabric) )
 - [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
 - [CreatePlus](https://modrinth.com/mod/createplus)
+- [Darker Depths](https://www.curseforge.com/minecraft/mc-mods/darker-depths)
+- [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
 - [Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)
 - [Immersive Engineering](https://modrinth.com/mod/immersiveengineering)
 - [Mekanism](https://modrinth.com/mod/mekanism)
@@ -38,6 +41,7 @@ Sequenced by A to Z:
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Thermal Series](https://modrinth.com/mod/thermal-foundation)
 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [XK's Decoration](https://www.curseforge.com/minecraft/mc-mods/xks-decoration) ([Renewed](https://github.com/welancraft/xkdeco-renewed))
 
 ## Supported Modpacks
 
