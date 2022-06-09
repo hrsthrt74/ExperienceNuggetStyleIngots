@@ -1,6 +1,6 @@
 # ExperienceNuggetStyleIngots
 
-ExperienceNuggetStyleIngots (or ENSI to be short) is a Minecraft Resource Pack to make every ingot/plate and some crystal shards be in the shape of Experience Nugget in the [Create Mod](https://github.com/Creators-of-Create/Create).
+ExperienceNuggetStyleIngots (or ENSI to be short) is a Minecraft Resource Pack to make every ingot/plate and some crystals be in the shape of Experience Nugget in the [Create Mod](https://github.com/Creators-of-Create/Create).
 
 Not finished yet, Please wait!
 
@@ -38,6 +38,12 @@ Sequenced by A to Z:
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Thermal Series](https://modrinth.com/mod/thermal-foundation)
 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+
+## Supported Modpacks
+
+Sequenced by A to Z:
+
+- [Create: Above and Beyond](https://www.curseforge.com/minecraft/modpacks/create-above-and-beyond)
 
 ## Contributors
 
