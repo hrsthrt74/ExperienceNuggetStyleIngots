@@ -18,6 +18,7 @@ Sequenced by A to Z:
 - [Advent of Ascension](https://www.curseforge.com/minecraft/mc-mods/advent-of-ascension-nevermine) (AOA)
 - Architect's Palette ( [Forge](https://www.curseforge.com/minecraft/mc-mods/architects-palette) | [Fabric](https://modrinth.com/mod/architects-palette-fabric) )
 - [Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia) ([Reforged](https://www.curseforge.com/minecraft/mc-mods/avaritia-reforged))
+- [Better Echo Shards](https://modrinth.com/mod/better-echo-shards)
 - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [Botania](https://modrinth.com/mod/botania)
 - [Buddycards](https://www.curseforge.com/minecraft/mc-mods/buddycards)
