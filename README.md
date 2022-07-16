@@ -18,19 +18,20 @@ Sequenced by A to Z:
 - Architect's Palette ( [Forge](https://www.curseforge.com/minecraft/mc-mods/architects-palette) | [Fabric](https://modrinth.com/mod/architects-palette-fabric) )
 - [Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia) ([Reforged](https://www.curseforge.com/minecraft/mc-mods/avaritia-reforged))
 - [Better Echo Shards](https://modrinth.com/mod/better-echo-shards)
-- [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- [Biomes O&#39; Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [Botania](https://modrinth.com/mod/botania)
 - [Buddycards](https://www.curseforge.com/minecraft/mc-mods/buddycards)
 - [Conjuring](https://modrinth.com/mod/conjuring)
 - Create ( [Forge](https://www.curseforge.com/minecraft/mc-mods/create) | [Fabric](https://modrinth.com/mod/create-fabric) )
 - [Create: Alloyed](https://www.curseforge.com/minecraft/mc-mods/create-alloyed)
-- [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
+- [Create Crafts &amp; Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
 - [CreatePlus](https://modrinth.com/mod/createplus)
 - [Create: Steam Powered](https://www.curseforge.com/minecraft/mc-mods/steam-powered-create)
 - [Darker Depths](https://www.curseforge.com/minecraft/mc-mods/darker-depths)
 - [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
 - [Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)
 - [Immersive Engineering](https://modrinth.com/mod/immersiveengineering)
+- [Indrev](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution)
 - [Mekanism](https://modrinth.com/mod/mekanism)
 - [Modern Industrialization](https://modrinth.com/mod/modern-industrialization)
 - [More Minecarts and Rails](https://www.curseforge.com/minecraft/mc-mods/more-minecarts)
@@ -43,12 +44,13 @@ Sequenced by A to Z:
 - [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 - [Thermal Series](https://modrinth.com/mod/thermal-foundation)
 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
-- [XK's Decoration](https://www.curseforge.com/minecraft/mc-mods/xks-decoration) ([Renewed](https://github.com/welancraft/xkdeco-renewed))
+- [XK&#39;s Decoration](https://www.curseforge.com/minecraft/mc-mods/xks-decoration) ([Renewed](https://github.com/welancraft/xkdeco-renewed))
 
 ## Supported Modpacks
 
 Sequenced by A to Z:
 
+- [Cabricality](https://github.com/JieningYu/Cabricality)
 - [Create: Above and Beyond](https://www.curseforge.com/minecraft/modpacks/create-above-and-beyond)
 
 ## Contributors
