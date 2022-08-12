@@ -1,4 +1,6 @@
-# ExperienceNuggetStyleIngots
+[![vJGDje.png](https://s1.ax1x.com/2022/08/12/vJGDje.png)](https://imgtu.com/i/vJGDje)
+
+# Experience Nugget Style Ingots
 
 Experience Nugget Style Ingots (or ENSI for short) is a Minecraft Resource Pack to make every ingot/plate and some crystals be in the shape of Experience Nugget in the [Create Mod](https://github.com/Creators-of-Create/Create).
 
