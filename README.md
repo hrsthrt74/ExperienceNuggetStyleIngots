@@ -27,6 +27,8 @@ Sequenced by A to Z:
 - Create ( [Forge](https://www.curseforge.com/minecraft/mc-mods/create) | [Fabric](https://modrinth.com/mod/create-fabric) )
 - [Create: Alloyed](https://www.curseforge.com/minecraft/mc-mods/create-alloyed)
 - [Create Crafts &amp; Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
+- [Create Experienced](https://www.curseforge.com/minecraft/mc-mods/create-experienced)
+- [Create : Misc & Things](https://www.curseforge.com/minecraft/mc-mods/create-misc-and-things)
 - [CreatePlus](https://modrinth.com/mod/createplus)
 - [Create: Steam Powered](https://www.curseforge.com/minecraft/mc-mods/steam-powered-create)
 - [Darker Depths](https://www.curseforge.com/minecraft/mc-mods/darker-depths)
