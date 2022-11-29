@@ -1,10 +1,10 @@
-[![vtJuVJ.png](https://s1.ax1x.com/2022/08/13/vtJuVJ.png)](https://imgtu.com/i/vtJuVJ)
+[![zdbN0e.png](https://s1.ax1x.com/2022/11/29/zdbN0e.png)](https://imgse.com/i/zdbN0e)
 
 # ExperienceNuggetStyleIngots - Cabricality
 
 Experience Nugget Style Ingots (or ENSI for short) is a Minecraft Resource Pack to make every ingot/plate and some crystals be in the shape of Experience Nugget in the [Create Mod](https://github.com/Creators-of-Create/Create).
 
-This branch is the expansion resource pack for the `Cabricality` modpack.
+This branch is the expansion resource pack for [`Cabricality`](https://github.com/DM-Earth/Cabricality) modpack.
 
 ## Usage
 
